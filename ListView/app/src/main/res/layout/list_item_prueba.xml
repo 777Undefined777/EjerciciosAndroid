@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText
+
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00BCD4"
+    android:textSize="24sp"
+    android:padding="10sp"
+    android:textColor="#171515"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    />

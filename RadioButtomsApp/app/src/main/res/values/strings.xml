@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButtomsApp</string>
+    <string name="et1">ingresa el primer valor</string>
+    <string name="et2">ingresa el primer valor</string>
+    <string name="rb_suma">sumar</string>
+    <string name="rb_resta">restar</string>
+    <string name="Buttom">calcular</string>
+    <string name="tv1">Resultado</string>
+</resources>

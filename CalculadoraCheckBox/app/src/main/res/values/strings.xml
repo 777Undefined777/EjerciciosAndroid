@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraCheckBox</string>
+    <string name="et_n1">Primer valor</string>
+    <string name="et_n2">Segundo valor</string>
+    <string name="buttom">Calcular</string>
+    <string name="check1">Suma</string>
+    <string name="check2">Resta</string>
+    <string name="txview">RESULTADO</string>
+    <string name="txview2"></string>
+
+</resources>

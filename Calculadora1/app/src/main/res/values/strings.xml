@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora1</string>
+    <string name="editt1">Ingresa el primer valor</string>
+    <string name="editt2">Ingresa el segundo valor</string>
+    <string name="Buttom">Calcular</string>
+    <string name="tvv1">Resultado</string>
+</resources>

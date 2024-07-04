@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BaseDeDatosProyect</string>
+    <string name="etcodigo">codigo del producto</string>
+
+
+    <string name="etdescripcion">Descripcion del producto</string>
+    <string name="etprecio">Precio del producto</string>
+    <string name="boton1">Registrar producto</string>
+    <string name="boton2">Buscar producto</string>
+    <string name="boton3">Modificar producto</string>
+    <string name="boton4">Eliminar producto</string>
+
+</resources>

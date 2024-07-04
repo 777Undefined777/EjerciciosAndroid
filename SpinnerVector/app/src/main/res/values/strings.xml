@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerVector</string>
+    <string name="et1">Primer valor</string>
+    <string name="et2">Segundo valor</string>
+    <string name="tv1">Resultado</string>
+    <string name="Buttom">Calcular</string>
+    <string name="Spinner"></string>
+
+</resources>
